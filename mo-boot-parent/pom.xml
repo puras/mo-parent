@@ -12,7 +12,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.puras.mo</groupId>
     <artifactId>mo-boot-parent</artifactId>
-    <version>0.2.0</version>
+    <version>0.2.1</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -22,7 +22,7 @@
         <fastjson.version>1.2.39</fastjson.version>
         <logback.version>1.2.3</logback.version>
         <jackson.version>2.9.1</jackson.version>
-        <mo.version>0.13.0</mo.version>
+        <mo.version>0.14.0</mo.version>
         <mybatis.version>3.4.5</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
         <mysql.version>6.0.6</mysql.version>
