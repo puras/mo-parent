@@ -49,11 +49,11 @@
             <version>${aspectj.version}</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter -->
-        <!--&lt;!&ndash; <dependency>-->
-            <!--<groupId>com.alibaba</groupId>-->
-            <!--<artifactId>druid-spring-boot-starter</artifactId>-->
-            <!--<version>${druid-starter.version}</version>-->
-        <!--</dependency> &ndash;&gt;-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid-spring-boot-starter</artifactId>
+            <version>${druid-starter.version}</version>
+        </dependency>
         <!--<dependency>-->
             <!--<groupId>me.puras</groupId>-->
             <!--<artifactId>mo-druid-spring-boot-starter</artifactId>-->
