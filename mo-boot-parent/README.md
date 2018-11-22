@@ -3,6 +3,10 @@ MO Boot Parent
 
 基于SpringBoot的基础类；
 
+* 0.7.0
+>* 升级SpringBoot依赖至2.1.0
+>* 升级其他依赖至Mvn库最新版
+
 * 0.6.0
 >* 升级SpringBoot依赖至2.1.0.M4
 >* 升级其他依赖至Mvn库最新版
