@@ -3,6 +3,9 @@ MO Boot Parent
 
 基于SpringBoot的基础类；
 
+* 0.7.3
+>* 升级`mo-comm`的依赖至`0.1.3`
+
 * 0.7.2
 >* 升级`mo-comm`的依赖至`0.1.2`
 
