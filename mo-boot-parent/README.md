@@ -3,6 +3,13 @@ MO Boot Parent
 
 基于SpringBoot的基础类；
 
+* 0.8.0
+>* 升级`SpringBoot`依赖至`2.1.2`
+>* 升级`fastjson`依赖至`1.2.56`
+>* 升级`mybatis`依赖至`3.5.0`
+>* 升级`mybatis-spring-boot-starter`依赖至`2.0.0`
+>* 升级`mysql`依赖至`8.0.15`
+
 * 0.7.2
 >* 升级`mo-comm`的依赖至`0.1.2`
 
