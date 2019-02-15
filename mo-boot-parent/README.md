@@ -3,6 +3,9 @@ MO Boot Parent
 
 基于SpringBoot的基础类；
 
+* 0.7.4
+>* 移除`DevTools`依赖
+
 * 0.7.3
 >* 升级`mo-comm`的依赖至`0.1.3`
 
