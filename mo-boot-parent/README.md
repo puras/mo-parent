@@ -3,6 +3,10 @@ MO Boot Parent
 
 基于SpringBoot的基础类；
 
+* 0.8.1
+>* 升级`SpringBoot`依赖致`2.1.3`
+>* 升级`lombok`依赖致`1.18.6`
+
 * 0.8.0
 >* 升级`SpringBoot`依赖至`2.1.2`
 >* 升级`fastjson`依赖至`1.2.56`
